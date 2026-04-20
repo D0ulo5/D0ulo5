@@ -1,8 +1,7 @@
 # Hi, I'm Mouad Salmi
 
 Full Stack Developer focused on backend systems, real-time applications, and low-level architecture.
-Interested in performance, concurrency, secure system design, and scalable backend architecture.
-Currently exploring cybersecurity concepts through CTF challenges and expanding into DevOps practices.
+
 ---
 
 ## About
@@ -44,3 +43,10 @@ Currently exploring cybersecurity concepts through CTF challenges and expanding 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## Focus
+
+Interested in performance, concurrency, secure system design, and scalable backend architecture.
+Currently exploring cybersecurity concepts through CTF challenges and expanding into DevOps practices.

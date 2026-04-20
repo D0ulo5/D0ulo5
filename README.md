@@ -7,7 +7,7 @@ Full Stack Developer with a strong foundation in systems programming, real-time 
 ## About
 
 - 🎓 Talent @ [Zone01 Oujda](https://learn.zone01oujda.ma) · 2024 – Present
-- 🔨 Building from the ground up — shells, frameworks, multiplayer systems
+- 🔨 Building from the ground up — shells, frameworks, multiplayer systems, and more
 - 🌍 Based in Oujda, Morocco
 - 📫 [salmi.mouad137@gmail.com](mailto:salmi.mouad137@gmail.com) · [LinkedIn](https://linkedin.com/in/mouad-salmi-602388332)
 
@@ -20,6 +20,7 @@ Full Stack Developer with a strong foundation in systems programming, real-time 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -27,8 +28,11 @@ Full Stack Developer with a strong foundation in systems programming, real-time 
 **Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Tools & Infra**
@@ -39,11 +43,6 @@ Full Stack Developer with a strong foundation in systems programming, real-time 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azalea-u&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azalea-u&layout=compact&theme=dark&hide_border=true)
-
----
+<sub>Building in the open · Oujda, Morocco</sub>

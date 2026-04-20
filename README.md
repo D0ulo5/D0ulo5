@@ -1,13 +1,15 @@
 # Hi, I'm Mouad Salmi
 
-Full Stack Developer with a strong foundation in systems programming, real-time web applications, and backend architecture.
-
+Full Stack Developer focused on backend systems, real-time applications, and low-level architecture.
+Interested in performance, concurrency, secure system design, and scalable backend architecture.
+Currently exploring cybersecurity concepts through CTF challenges and expanding into DevOps practices.
 ---
 
 ## About
 
 - 🎓 Talent @ [Zone01 Oujda](https://learn.zone01oujda.ma) · 2024 – Present
 - 🔨 Building from the ground up — shells, frameworks, multiplayer systems, and more
+- 🔐 Interested in cybersecurity and DevOps · participated in CTF competitions
 - 🌍 Based in Oujda, Morocco
 - 📫 [salmi.mouad137@gmail.com](mailto:salmi.mouad137@gmail.com) · [LinkedIn](https://linkedin.com/in/mouad-salmi-602388332)
 
@@ -42,7 +44,3 @@ Full Stack Developer with a strong foundation in systems programming, real-time 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-
-<sub>Building in the open · Oujda, Morocco</sub>
